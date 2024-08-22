@@ -12,8 +12,8 @@ export const metadata: Metadata = {
     title: "DAO",
     description: "Create DAO Voting - Powered by Solana",
     type: "website",
-    url: "https://dao-frontend-beta.vercel.app/",
-    images: "https://news.miami.edu/_assets/images-stories/2023/02/dao-web3-hero-940x529.jpg"
+    url: "https://dao-canvas.vercel.app/",
+    images: "https://api.airbillspay.com/images/air16.jpg"
   },
 
   other: {
